@@ -1,0 +1,19 @@
+# python
+backend/.venv/
+**/__pycache__/
+*.pyc
+backend/.env
+backend/package/
+backend/build/
+# node
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env.production
+frontend/tsconfig.tsbuildinfo
+# artifacts / secrets
+*.zip
+.env
+*.pem
+*.log
+.DS_Store
